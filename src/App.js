@@ -77,15 +77,15 @@ const fillTiktokArray = (index) => {
         <div>
           <h1>Tic Tac Toe</h1>
       <div className="board">
-      <div data-index="1" className="tile right-border bottom-border">X</div>
-      <div data-index="2" className="tile right-border bottom-border"></div>
-      <div data-index="3" className="tile bottom-border"></div>
-      <div data-index="4" className="tile right-border bottom-border"></div>
-      <div data-index="5" className="tile right-border bottom-border">x</div>
-      <div data-index="6" className="tile bottom-border"></div>
-      <div data-index="7" className="tile right-border"></div>
-      <div data-index="8" className="tile right-border"></div>
-      <div data-index="9" className="tile">x</div>
+      <div  className="tile right-border bottom-border">X</div>
+      <div  className="tile right-border bottom-border"></div>
+      <div  className="tile bottom-border"></div>
+      <div  className="tile right-border bottom-border"></div>
+      <div  className="tile right-border bottom-border">x</div>
+      <div  className="tile bottom-border"></div>
+      <div  className="tile right-border"></div>
+      <div  className="tile right-border"></div>
+      <div  className="tile">x</div>
       
     </div>
     <button >Play</button>
